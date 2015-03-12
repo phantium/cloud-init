@@ -19,3 +19,5 @@ edit /etc/cloud/cloud.cfg
 after the changes are made be sure to use:
 
 sync - to flush all changes to the disk image
+
+Full reference: https://cloudinit.readthedocs.org/
